@@ -19,7 +19,7 @@ jobs:
     # needs: [build, lint, test]
     if: github.event_name == 'push' && ( github.ref == 'refs/heads/dev' || github.ref == 'refs/heads/main' || github.ref == 'refs/heads/release' )
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
       - name: setup (${{ env.NODE_VERSION }})
         uses: actions/setup-node@v4
         with:
