@@ -1,13 +1,13 @@
 {
   "branches": [
-    "release",
+    "main",
     {
-      "name": "main",
-      "prerelease": "rc"
+      "name": "release",
+      "prerelease": "qa"
     },
     {
       "name": "dev",
-      "prerelease": "beta"
+      "prerelease": "dev"
     }
   ],
   "plugins": [
