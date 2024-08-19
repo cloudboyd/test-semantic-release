@@ -37,3 +37,5 @@ test after delete release branch
 test after delete release branch 
 
 test merged type, from dev to release
+antoher fix before qa immediately
+antoher fix before qa immediately#2
