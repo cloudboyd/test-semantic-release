@@ -29,3 +29,13 @@ another fix after 1.3.0 merge back
 
 hotfix from main
 hotfix from main again, forget commit msg
+
+another fix after 1.3.2
+fix2
+feat
+test after delete release branch
+test after delete release branch 
+
+test merged type, from dev to release
+antoher fix before qa immediately
+antoher fix before qa immediately#2
